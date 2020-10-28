@@ -1,0 +1,16 @@
+baseURL: https://lobyshev.tk
+languageCode: ru-ru
+title: ctrl+alt+del
+theme: freshstart
+
+params:
+  author: Lobyshev
+  description: Personal Page
+  favicon: /favicon.ico
+
+
+  searchEngines:
+    - name: DuckDuckGo
+      activated: true
+      icon: fas fa-search
+      url: https://www.duckduckgo.com
